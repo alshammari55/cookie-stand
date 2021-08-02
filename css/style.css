@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(18, 133, 209);
+}
+
+body {
+    background-color: rgb(61, 132, 226);
+    text-size-adjust: 28;
+}
+
+head {
+     
+     margin: 250;
+     padding: 150;
+     text-size-adjust: 28;
+
+}
+
+main {
+    background-color: darkslateblue;
+    margin: 250;
+    padding: 180;
+    text-decoration: mediumpurple;
+
+}
+
